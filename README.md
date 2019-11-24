@@ -1,1 +1,6 @@
 # matplotlib-challenge
+##Observations
+1. Out of the four drugs given to observate, the Drug Capomulin is the one with with more positive results in the tumor volume since the volume of tumor decreased during the 45 day period.
+2. I can also conculde that all 4 drugs have metastatic spread on mice, we can see that in the Fig2 graph, given the lines are increasing. We can say that Capomulin, and Infubinol have less impact in metastatic spread. Ketapril and Placebo has same increase and Ketapril surpasing the metastatic spread of Placebo at the end of the 45 day period.
+3. From Survival Rate, we can see that all 4 drugs have a decreasing survival rate; however, Capomulin has the highest survival rate out of the 4 drugs, while the other 3 drugs are decreasing in survival rate at a similar pace, given their proximity in the graph over the 45 day period.
+4. From last graph, we can see that Capomulin has the best positive percentage change in the tumor volume since tumor volume decreased over the 45 day period, and the other 3 drugs have negative results in the percentage change of tumor volume. Ketapril has the highest percentage change, meaning tumor increased overtime, it is also the one with the least success rate in the decrasing of tumor volume.
